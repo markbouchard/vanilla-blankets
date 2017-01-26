@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "224f9c1909e41165c531a4cf14559752"
+build_time: [538780555, 86317000]
+inputs:
+  "/Users/mbouchard/Documents/vanilla-blanket/vanilla-blanket/vanilla-blanket/ViewController.swift": [538780555, 0]
+  "/Users/mbouchard/Documents/vanilla-blanket/vanilla-blanket/vanilla-blanket/AppDelegate.swift": [538776367, 0]
